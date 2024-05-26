@@ -38,3 +38,4 @@ data = {
    訓練集由原始數據及標籤(原始數據如圖片的像素值/聲音的振幅等等)
 
 ## 圖片幫助解釋
+![image](https://github.com/patrickLin0930/AI--/blob/main/ml-dl%20%E5%B0%8D%E6%AF%94%E5%9C%96.jpg)
